@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3fbba18b-8f00-4de6-a09f-03129a3a8500/resourceGroups/gesta_group/providers/Microsoft.Web/sites/gestaofazendas",
+    "appService.deploySubpath": "Gestão_fazendas"
+}
